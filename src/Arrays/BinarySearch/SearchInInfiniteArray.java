@@ -1,7 +1,7 @@
 package Arrays.BinarySearch;
 
 
-// TODO: 04/08/25  GEEK FOR GEEKS QUESTON AMAZON INTERVIEW QUESTION
+// TODO: 04/08/25  GEEK FOR GEEKS QUESTION AMAZON INTERVIEW QUESTION
 public class SearchInInfiniteArray {
     public static void main(String[] args) {
         int[] arr = {3,5,7,9,10,90,100,130,140,160,170};
